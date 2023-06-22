@@ -1,0 +1,22 @@
+.content{
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+    padding: 85px 0px 56px 0px;
+}
+
+.machine5pro{
+    background-image: url('../assets/smartOPT5Pro.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 310px;
+    width: 200px;
+}
+
+.machine5{
+    background-image: url('../assets/smartOPT5.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 377px;
+    width: 207px;
+}

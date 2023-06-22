@@ -1,0 +1,22 @@
+.para{
+    margin: 140px 0px 0px 100px;
+}
+
+.cover{
+    background-image: url('../assets/cover.png');
+    height: 50px;
+    width: 80px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.inner-para {
+    width: 340px;
+}
+
+.button4 {
+    position: absolute;
+    top: 55%;
+    left: 62%;
+    cursor: pointer;
+}

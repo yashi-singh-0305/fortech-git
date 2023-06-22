@@ -1,0 +1,20 @@
+.machine2 {
+    background-image: url('../assets/smartOPT2.png');
+    height: 100vh;
+    background-size: 550px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.button2 {
+    position: absolute;
+    top: 47%;
+    left: 32%;
+    cursor: pointer;
+}
+
+.para {
+    color: #fff;
+    font-size: 25px;
+    margin: 170px 0px 0px 0px;
+}

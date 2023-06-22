@@ -1,0 +1,31 @@
+.para{
+    margin: 140px 0px 0px 0px;
+}
+
+.machine3{
+    background-image: url('../assets/smartOPT3.png');
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.contactless{
+    background-image: url('../assets/contactlesspayment3.png');
+    height: 60px;
+    width: 80px;
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.inner-para {
+    width: 330px;
+}
+
+.button3 {
+    position: absolute;
+    top: 38%;
+    left: 21%;
+    cursor: pointer;
+}

@@ -1,0 +1,26 @@
+.logo{
+    background-image: url('../assets/logo.png');
+    height: 50px;
+    width: 225px;
+    position: absolute;
+}
+
+.line{
+    background-image: url('../assets/line.png');
+    background-size: contain;
+    height: 50px;
+    width: 2px;
+    margin-left: 20px;
+}
+
+.fingerprint{
+    background-image: url('../assets/fingerprint.png');
+    height: 45px;
+    width: 45px;
+    background-size: cover;
+}
+
+.inner-para{
+    width: 320px;
+    font-size: 16px;
+}

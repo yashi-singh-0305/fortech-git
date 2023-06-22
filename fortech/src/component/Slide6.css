@@ -1,0 +1,55 @@
+.machine6pro{
+    background-image: url('../assets/smartOPT6Pro.png');
+    height: 370px;
+    width: 185px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.rect{
+    background-image: url('../assets/Rectangle.png');
+    height: 514px;
+    width: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.rect-inner{
+    display: flex;
+    justify-content: space-between;
+    width: 345px;
+    margin: 0px auto;
+}
+
+.rect-inner>p{
+    margin-bottom: 5px;
+}
+.machine6{
+    background-image: url('../assets/smartOPT6.png');
+    height: 420px;
+    width: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.inner{
+    height: 100vh;
+}
+
+.head{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
+
+.char-btn{
+    margin: 45px 68px;
+}
+
+.char-btn-btn{
+    padding: 5px 15px;
+    border-radius: 20px;
+}

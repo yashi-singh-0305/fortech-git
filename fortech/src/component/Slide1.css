@@ -1,0 +1,59 @@
+.navbar {
+    padding: 20px 0px;
+}
+
+.bg-img {
+    height: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navbar .logo {
+    background-image: url('../assets/logo.png');
+}
+
+.navbar .premium {
+    background-image: url('../assets/premium.png');
+    background-size: 180px;
+}
+
+.navbar .language {
+    background-image: url('../assets/language.png');
+}
+
+.smartOPT {
+    font-weight: 600;
+    font-size: 25px;
+    color: #fff;
+}
+
+.bell{
+    height: 40px;
+    width: 30px;
+    background-image: url('../assets/bell.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    position: relative;
+    bottom: 10px;
+    left: 665px;
+}
+
+.machine{
+    background-image: url('../assets/smartOPT1.png');
+    height: 440px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.arrow{
+    background-image: url('../assets/arrowDown.png');
+    background-repeat: no-repeat;
+    height: 21px;
+    width: 40px;
+    position: relative;
+    bottom: 50px;
+    left: 49%;
+    cursor: pointer;
+}
